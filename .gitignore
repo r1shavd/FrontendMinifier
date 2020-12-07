@@ -1,0 +1,2 @@
+# Ignore just the tests folder which contains the sample scripts on which we can freely test our scripts
+tests/
